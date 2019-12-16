@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Programmer / Architect
+role: IT Architect / Programmer
 
 # Organizations/Affiliations
 organizations:
