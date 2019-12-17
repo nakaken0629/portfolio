@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Kenji Nakagaki is an IT architect and a programmer. He has deep skills about web, mobile, server, database, infrastructure and AI. He also wrote some technical books.
+Kenji Nakagaki is an IT architect and a programmer. He has deep skills about web, mobile, server, database and network. He also wrote some technical books.

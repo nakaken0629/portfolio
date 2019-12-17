@@ -31,9 +31,21 @@ subtitle = ""
   description = "Senior"
   
 [[feature]]
+  name = "Python"
+  description = "intermediate"
+
+[[feature]]
   name = "Ruby"
   description = "intermediate"
 
+[[feature]]
+  name = "C#"
+  description = "intermediate"
+
+[[feature]]
+  name = "SQL"
+  description = "Senior"
+  
 [[feature]]
   name = "Android"
   description = "Senior"
@@ -43,11 +55,23 @@ subtitle = ""
   description = "Senior"
   
 [[feature]]
+  name = "Ruby on Rails"
+  description = "intermediate"
+  
+[[feature]]
+  name = "scikit-learn"
+  description = "intermediate"
+  
+[[feature]]
   name = "Linux"
   description = "intermediate"
 
 [[feature]]
   name = "AWS"
+  description = "intermediate"
+
+[[feature]]
+  name = "GCP"
   description = "intermediate"
 
 [[feature]]
