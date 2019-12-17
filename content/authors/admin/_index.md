@@ -40,6 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:nakaken0629@gmail.comm'  # For a direct email link, use "mailto:test@example.org".
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/nakaken0629
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nakaken0629
