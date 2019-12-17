@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,63 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Lead Engineer"
+  company = "ATeam Inc."
+  company_url = "https://www.a-tm.co.jp/en/"
+  location = "Nagoya Japan"
+  date_start = "2012-07-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Machine Learning
+  * Game Capture Site
+  * SNS
+  * Chat
+  * EC Site
+  * Mobile Game
+  * Billing System
+  * Member Management System
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Engineer / Architect / Consultant"
+  company = "SCSK corporation"
+  company_url = "https://www.scsk.jp/index_en.html"
+  location = "Nagoya Japan"
+  date_start = "2007-12-01"
+  date_end = "2012-06-30"
+  description = """
+  * Estimating System
+  * Trade Management System
+  * Project Management Consulting
+  * Production Management System
+  * Member Management System
+  * Order Management System
+  * Sales Management System
+  """
 
+[[experience]]
+  title = "Engineer / Teacher"
+  company = "SCSK corporation"
+  company_url = "https://www.scsk.jp/index_en.html"
+  location = "Tokyo Japan"
+  date_start = "2004-04-01"
+  date_end = "2007-11-30"
+  description = """
+  * BPO
+  * Developing Framework for own company
+  * Teaching .NET Framework
+  """
+
+[[experience]]
+  title = "Programmer"
+  company = "SCSK corporation"
+  company_url = "https://www.scsk.jp/index_en.html"
+  location = "Nagoya Japan"
+  date_start = "1998-03-01"
+  date_end = "2004-03-31"
+  description = """
+  * Teaching Java
+  * R&D
+  * Purchasing Management System
+  """
 +++

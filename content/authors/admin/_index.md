@@ -21,6 +21,7 @@ organizations:
 bio: My skills are wide from clients to servers. My skill are based on my work experiences.
 
 interests:
+- Architecture
 - Mobile Application
 - Web Application
 - Cloud
@@ -66,3 +67,4 @@ user_groups:
 ---
 
 Kenji Nakagaki is an IT architect and a programmer. He has deep skills about web, mobile, server, database and network. He also wrote some technical books.
+
