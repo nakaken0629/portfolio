@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: IT Architect / Programmer
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Ateam Inc.
-  url: "https://www.a-tm.co.jp"
+- name: Freelance.
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My skills are wide from clients to servers. My skill are based on my work experiences.
@@ -23,7 +23,6 @@ bio: My skills are wide from clients to servers. My skill are based on my work e
 interests:
 - Architecture
 - Mobile Application
-- Web Application
 - Cloud
 - Artificial Intelligence
 
@@ -66,5 +65,9 @@ user_groups:
 - Visitors
 ---
 
-Kenji Nakagaki is an IT architect and a programmer. He has deep skills about web, mobile, server, database and network. He also wrote some technical books.
+Kenji Nakagaki is a senior software engineer. 
+He has deep skills about web, mobile, server, database and network. 
 
+He began working in the system integrator from 1998.
+
+He also wrote some technical books.
