@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: Department of Liberal Arts(Informatics)
+    institution: The open University of Japan
+    year: current
   - course: Department of Mathematics
     institution: Nagoya University
     year: 1997
