@@ -3,10 +3,10 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 38  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Foundation"
 
 # Showcase personal skills or business features.
 # 
@@ -16,51 +16,11 @@ subtitle = ""
 
 [[feature]]
   name = "Object Oriented"
-  description = "Senior"
+  description = "Advanced"
   
-[[feature]]
-  name = "Java"
-  description = "Senior"
-  
-[[feature]]
-  name = "Kotlin"
-  description = "intermediate"
-  
-[[feature]]
-  name = "Swift"
-  description = "Senior"
-  
-[[feature]]
-  name = "Python"
-  description = "intermediate"
-
-[[feature]]
-  name = "Ruby"
-  description = "intermediate"
-
-[[feature]]
-  name = "C#"
-  description = "intermediate"
-
 [[feature]]
   name = "SQL"
-  description = "Senior"
-  
-[[feature]]
-  name = "Android"
-  description = "Senior"
-  
-[[feature]]
-  name = "iOS"
-  description = "Senior"
-  
-[[feature]]
-  name = "Ruby on Rails"
-  description = "intermediate"
-  
-[[feature]]
-  name = "scikit-learn"
-  description = "intermediate"
+  description = "Advanced"
   
 [[feature]]
   name = "Linux"
