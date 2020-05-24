@@ -6,7 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = """
+* Freelance(2020-)
+* ATeam(2012-2020)
+* SCSK(1998-2012)
+"""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

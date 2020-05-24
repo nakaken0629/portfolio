@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer
+role: Full stack engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My skills are wide from clients to servers. My skill are based on my work experiences.
+# bio: My skills are wide from clients to servers. My skill are based on my work experiences.
 
 interests:
 - Architecture
-- Mobile Application
+- Mobile/Web Application
 - Cloud
 - Artificial Intelligence
 
@@ -63,14 +63,14 @@ email: "nakaken0629@gmmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Kenji Nakagaki is a senior software engineer. 
 He has deep skills about web, mobile, server, database and network. 
 
-He began working in the system integrator from 1998.
+He worked in a system integrator from 1998 to 2012 and a tech company from 2012 to 2020.
 
-He also wrote some technical books.
+He also wrote some technical books for beginners.
