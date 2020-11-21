@@ -7,7 +7,8 @@ weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = """
-* Freelance(2020-)
+* PayPay(2020-)
+* Freelance(2020-2020)
 * ATeam(2012-2020)
 * SCSK(1998-2012)
 """
@@ -22,12 +23,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Engineer"
+  company = "PayPay Corporation"
+  company_url = ""
+  location = "Tokyo Japan"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  * Java
+  * Spring boot
+  * AWS
+  * Kafka
+  """
+
+[[experience]]
   title = "A full stack Engineer"
   company = "Freelance"
   company_url = ""
   location = "Nagoya Japan"
   date_start = "2020-05-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = ""
 
 [[experience]]
