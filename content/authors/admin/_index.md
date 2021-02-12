@@ -14,8 +14,8 @@ role: Full stack engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Freelance.
-  url: ""
+- name: PayPay Corporation
+  url: "https://about.paypay.ne.jp/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My skills are wide from clients to servers. My skill are based on my work experiences.
