@@ -71,6 +71,6 @@ email: "nakaken0629@gmmail.com"
 Kenji Nakagaki is a senior software engineer. 
 He has deep skills about web, mobile, server, database and network. 
 
-He worked in a system integrator from 1998 to 2012 and a tech company from 2012 to 2020.
+He worked in a system integrator from 1998 to 2012 and a tech company from 2012 to 2020. Now he works a mobile cashing company from 2020.
 
 He also wrote some technical books for beginners.
