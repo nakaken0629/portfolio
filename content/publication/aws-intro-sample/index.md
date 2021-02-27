@@ -19,10 +19,10 @@ publication_types: ["5"]
 publication: ""
 publication_short: ""
 
-abstract: "This is an introductory book how to construct a safty and robust infrastructure on the AWS."
+abstract: "This is an introductory book how to construct a safe and robust infrastructure on the AWS."
 
 # Summary. An optional shortened abstract.
-summary: "This is an introductory book how to construct a safty and robust infrastructure on the AWS."
+summary: "This is an introductory book how to construct a safe and robust infrastructure on the AWS."
 
 tags: ["AWS"]
 categories: []
