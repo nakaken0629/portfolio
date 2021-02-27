@@ -25,7 +25,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Engineer"
   company = "PayPay Corporation"
-  company_url = ""
+  company_url = "https://paypay.ne.jp/"
   location = "Tokyo Japan"
   date_start = "2020-09-01"
   date_end = ""
