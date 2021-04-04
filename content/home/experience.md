@@ -7,7 +7,8 @@ weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = """
-* PayPay(2020-)
+* SCSK(2021-)
+* PayPay(2020-2021)
 * Freelance(2020-2020)
 * ATeam(2012-2020)
 * SCSK(1998-2012)
@@ -22,13 +23,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Engineer / Architect"
+  company = "SCSK corporation"
+  company_url = "https://www.scsk.jp/index_en.html"
+  location = "Nagoya Japan"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """
+  * Mobility System
+  """
+
 [[experience]]
   title = "Engineer"
   company = "PayPay Corporation"
   company_url = "https://paypay.ne.jp/"
   location = "Tokyo Japan"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = """
   * Java
   * Spring boot

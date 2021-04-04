@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Full stack engineer
+role: Architect / Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: PayPay Corporation
-  url: "https://about.paypay.ne.jp/"
+- name: SCSK Corporation
+  url: "https://www.scsk.jp/index_en.html"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My skills are wide from clients to servers. My skill are based on my work experiences.
@@ -71,6 +71,6 @@ email: "nakaken0629@gmmail.com"
 Kenji Nakagaki is a senior software engineer. 
 He has deep skills about web, mobile, server, database and network. 
 
-He worked in a system integrator from 1998 to 2012 and a tech company from 2012 to 2020. Now he works a mobile cashing company from 2020.
+He worked in a system integrator from 1998 to 2012 and some tech companies from 2012 to 2021. Now he returns to the same company where he has worked first time and works from 2021.
 
 He also wrote some technical books for beginners.
