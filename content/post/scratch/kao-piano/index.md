@@ -33,6 +33,6 @@ URL: https://scratch.mit.edu/projects/519970734
 
 ## One point
 
-This is a logic to play sound during keeping touch the buttons.
+This is the logic used to produce sound as long as the button is touched.
 
 {{< figure src="scratchblocks.png" >}}
