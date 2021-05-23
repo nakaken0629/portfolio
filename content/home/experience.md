@@ -33,6 +33,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * Mobility System
+  * AWS Lambda
+  * AWS CodeStar
   """
 
 [[experience]]
